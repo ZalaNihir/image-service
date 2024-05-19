@@ -1,0 +1,14 @@
+{
+    "name": "zalanihir/image-service",
+    "description": "Laravel library for images to convert extenstion",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ZalaNihir",
+            "email": "devnihirzala@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
